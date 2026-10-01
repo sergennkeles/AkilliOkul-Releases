@@ -1,0 +1,15 @@
+{
+  "version": "v1.0.12",
+  "notes": "Akıllı Tahta Kiosk v1.0.12 otomatik güncellemesi.",
+  "pub_date": "2026-10-01T18:25:33Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/sergennkeles/AkilliOkul-Releases/releases/download/v1.0.12/e-kilit_1.0.12_x64_en-US.msi.zip"
+    },
+    "linux-x86_64": {
+      "signature": "",
+      "url": "https://github.com/sergennkeles/AkilliOkul-Releases/releases/download/v1.0.12/e-kilit_1.0.12_amd64.AppImage.tar.gz"
+    }
+  }
+}
